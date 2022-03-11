@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  devchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-10T20:30:17.9771524-05:00"
+    dependencies:
+    - name: tomcat
+      repository: http://charts.bitnami.com/bitnami
+      version: 10.1.12
+    description: A Helm chart for Kubernetes
+    digest: c6f519b911b52808d509b1ceba16b0ef2ca75853c641f44915bf485691b3fe09
+    name: devchart
+    type: application
+    urls:
+    - devchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-10T20:30:17.9661548-05:00"
